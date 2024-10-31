@@ -6,9 +6,10 @@ function App() {
   return (
     <div className="App">
       <h1>Counter App</h1>
-      <Counter />
+      <Counter title="My Counter" />
     </div>
   );
 }
+
 
 export default App;
